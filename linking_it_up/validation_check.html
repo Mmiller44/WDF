@@ -1,17 +1,24 @@
-1. http://www.theconsumercenter.com/
-																									This site is designed for a local marketing research company in Safety Harbor Fl.
-Failed the Validator.nu with 10 errors. Firstly, they need to add a DOCTYPE to the top 		of the html file. Lastly, they need to remove their <csscript> from the <body> element in order for it to work. Other than that, I am not 100% sure about how to change all of the errors.
-The site also failed the HTML Lint. It could not continue because there is no DOCTYPE. The correction would be the same as above.
+<!DOCTYPE html>
 
-2. http://www.zeldman.com/
-	The site from Jeffrey Zeldman to talk about web design, whether it's HTML or CSS.
-	It failed Validator.nu with 49 errors. The errors could be fixed with using underscores instead of using spaces. All of the errors were from % 20 spacing.
-	It failed the HTML Lint as well. It had 2 mistakes which are just suggestions within the code. The error could be fixed by adding whitespace after ending a quote.
+<html lang="en">
+<head>
+	<title>Validation Check </title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<h1>http://www.theconsumercenter.com</h1>																																																																		<p>This site is designed for a local marketing research company in Safety Harbor Fl.
+Failed the Validator.nu with 10 errors. Firstly, they need to add a DOCTYPE to the top 		of the html file. Lastly, they need to remove their (csscript) from the (body) element in order for it to work. Other than that, I am not 100% sure about how to change all of the errors.</p>
+	<p>The site also failed the HTML Lint. It could not continue because there is no DOCTYPE. The correction would be the same as above.</p>
 
-3. http://www.kickstarter.com/
-	A website made to allow people to upload project ideas or inventions to gain donations to "kick start" their project. This site failed the HTML Lint with 75 errors. All 75 errors were closing tag errors. They could be fixed by adding a / before the closing >.
-	It failed the Validator.nu with 75 errors as well, their targets have no value. If they were given a value the site would have a lot less errors.
+<h1>http://www.zeldman.com</h1>
+	<p>The site from Jeffrey Zeldman to talk about web design, whether it's HTML or CSS.It failed Validator.nu with 49 errors. The errors could be fixed with using underscores instead of using spaces. All of the errors were from % 20 spacing.</p>
+	<p>It failed the HTML Lint as well. It had 2 mistakes which are just suggestions within the code. The error could be fixed by adding whitespace after ending a quote.</p>
+
+<h1>http://www.kickstarter.com </h1>
+	<p>A website made to allow people to upload project ideas or inventions to gain donations to "kick start" their project. This site failed the HTML Lint with 75 errors. All 75 errors were closing tag errors. They could be fixed by adding a / before the closing >.</p>
+	<p>It failed the Validator.nu with 75 errors as well, their targets have no value. If they were given a value the site would have a lot less errors.</p>
 	
-4. http://wddbs.com/~cburke/wiu/
-	This site is made to allow wiu students easy access to the class assets, labs and lectures. Also provides an easy way for students to connect with the teacher and lab instructor. It failed Validator.nu with 16 errors. They could be fixed with taking out the paragraph and headings from the <ul> this will not validate. They could also code out the & sign with &amp; to solve these errors. It passed the HTML Lint with 0 errors.
-
+<h1>http://wddbs.com/~cburke/wiu</h1>
+	<p>This site is made to allow wiu students easy access to the class assets, labs and lectures. Also provides an easy way for students to connect with the teacher and lab instructor. It failed Validator.nu with 16 errors. They could be fixed with taking out the paragraph and headings from the <ul> this will not validate. They could also code out the & sign with &amp; to solve these errors. It passed the HTML Lint with 0 errors.</p>
+	</body>
+</html>
