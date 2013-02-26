@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<rss version="2.0">
+	<channel>
+		<title>Miller's Movie Reviews</title>
+		<link>http://www.idontownanydomainnamespleasehelp.com</link>
+		<description>This is a movie review feed by Mike Miller. I will go through movies that are new each week and let you know a brief description of the movie. I will also give you a link to the homepage to see trailers and more fun content for the movie. Lastly, I will be giving you my personal opinion on each movie. Keep checking back for more.</description>
+		
+		<item>
+		<title>Argo</title>
+		<description>Argo is a film directed by Ben Afleck. It won Best Picture in the 2013 Oscars. This movie is based off of a CIA agent named Tony Mendez. Mendez specialized in extracting people from dangerous situations. In the movie, Mendez flies to Iran to rescue 5 Americans who were being threatened by the Iranian population. I found the movie to be very entertaining and suspenseful. It is not completely accurate in certain depictions, but Afleck did a great job at recreating actual scenes. While the credits roll, you can see actual footage from the events that took place.</description>
+		<guid>http://www.google.com</guid>
+		</item>
+		
+		<item>
+		<title>Seven Psychopaths</title>
+		<description>Seven Psychopaths is a film directed by Ben Afleck. It won Best Picture in the 2013 Oscars. This movie is based off of a CIA agent named Tony Mendez. Mendez specialized in extracting people from dangerous situations. In the movie, Mendez flies to Iran to rescue 5 Americans who were being threatened by the Iranian population. I found the movie to be very entertaining and suspenseful. It is not completely accurate in certain depictions, but Afleck did a great job at recreating actual scenes. While the credits roll, you can see actual footage from the events that took place.</description>
+		<guid>http://www.google.com/2</guid>
+		</item>
+		
+		<item>
+		<title>The Raven</title>
+		<description>The Raven is a film directed by Ben Afleck. It won Best Picture in the 2013 Oscars. This movie is based off of a CIA agent named Tony Mendez. Mendez specialized in extracting people from dangerous situations. In the movie, Mendez flies to Iran to rescue 5 Americans who were being threatened by the Iranian population. I found the movie to be very entertaining and suspenseful. It is not completely accurate in certain depictions, but Afleck did a great job at recreating actual scenes. While the credits roll, you can see actual footage from the events that took place.</description>
+		<guid>http://www.google.com/3</guid>
+		</item>
+		
+		<item>
+		<title>Life of Pi</title>
+		<description>Life of Pi is a film directed by Ben Afleck. It won Best Picture in the 2013 Oscars. This movie is based off of a CIA agent named Tony Mendez. Mendez specialized in extracting people from dangerous situations. In the movie, Mendez flies to Iran to rescue 5 Americans who were being threatened by the Iranian population. I found the movie to be very entertaining and suspenseful. It is not completely accurate in certain depictions, but Afleck did a great job at recreating actual scenes. While the credits roll, you can see actual footage from the events that took place.</description>
+		<guid>http://www.google.com/4</guid>
+		</item>
+	</channel>
+</rss>
